@@ -148,8 +148,8 @@ div.fadeIn{
 
 @media screen and (max-width: 600px) {
     section{
-        height: 120vh;
-        width: 110%;
+        height: 130vh;
+        width: 130%;
         background-color: rgb(39,41,68);
         font-family: sans-serif;
     }
