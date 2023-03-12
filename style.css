@@ -145,3 +145,12 @@ div.fadeIn{
         transform:  translateY(0px);
     }
 }
+
+@media screen and (max-width: 600px) {
+    section{
+        height: 120vh;
+        width: 110%;
+        background-color: rgb(39,41,68);
+        font-family: sans-serif;
+    }
+}
